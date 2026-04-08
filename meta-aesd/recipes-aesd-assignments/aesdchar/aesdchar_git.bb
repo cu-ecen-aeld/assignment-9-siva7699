@@ -11,7 +11,7 @@ SRC_URI = "git://github.com/cu-ecen-aeld/assignments-3-and-later-siva7699.git;pr
 SRC_URI += " file://aesdchar-init"
 # Modify these as desired
 PV = "1.0+git${SRCPV}"
-SRCREV = "ce63dfa6c7fd19a51410be9cef4723eb5694547b"
+SRCREV = "0c68d3a698b06de1778615044c22e34234755c97"
 
 S = "${WORKDIR}/git"
 
